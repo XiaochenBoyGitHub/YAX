@@ -1,5 +1,8 @@
 {
 	"p2_image": "https://picsum.photos/400",
 	"p2_headline": "About",
-	"p2_content": "\n          Edit here. Use the link <a href=\"?login\">?login</a> to see the edit toolbar.\n        "
+	"p2_content": "\n          Edit here. Use the link <a href=\"?login\">?login</a> to see the edit toolbar.\n        ",
+	"p1_image": "https://picsum.photos/400",
+	"p1_headline": "CSS Forest: Bootstrap",
+	"p1_content": "\n          Edit here. Use the link <a href=\"?login\">?login</a> to see the edit toolbar.\n        "
 }
