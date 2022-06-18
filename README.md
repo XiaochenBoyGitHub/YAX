@@ -1,38 +1,13 @@
-# Project: XiaochenBoy.com
+# 项目：XiaochenBoy.com
 
-This is the GitHub repository for the project you named "YAX", generated from the "yaxt-cssforest-bootstrap" website template at [yax.com](https://yax.com).
+这是您命名为“YAX”的项目的 GitHub 存储库，由 XiaochenBoy 修改的YAX模板。
 
-From here, deploy your website for free hosting. Just click a button to deploy your website to [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), or [Render.com](https://render.com/). During the process, you will create a second repo for deployment. Name it what you like; I suggest "YAX-deploy".
+如需帮助，请发送电子邮件至 [3376716410@qq.com]。
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/XiaochenBoyGitHub/YAX)
+# CSS Forest：引导程序
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/XiaochenBoyGitHub/YAX)
+所有页面都使用流行的 [Bootstrap](https://getbootstrap.com/) CSS 框架进行样式设置。
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+## 使用页面编辑器
 
-For help, open a GitHub issue and mention [DanielKehoe](https://github.com/DanielKehoe) or email [support@yax.com](mailto:support@yax.com?subject=[GitHub]%20YAX).
-
-## Stackless newsletter
-
-It is early days for Yax. If you are curious about what we are doing, go to [stackless.community](https://stackless.community/) and sign up for the newsletter, all about Yax and building websites without frameworks or build tools.
-
-
-
-# CSS Forest: Bootstrap
-
-This is a website built using the [yax.com](https://yax.com/) website builder project.
-
-All pages are styled with the popular [Bootstrap](https://getbootstrap.com/) CSS framework.
-
-## Website pages
-
-The website contains five pages:
-- Home
-- About
-- Services
-- Team
-- Contact
-
-## Using the on-page editor
-
-You can edit content, headlines, images, and links on the pages using the [Mavo](https://mavo.io/) on-page editor. Use the link `https://example.com/index.html?login` to open the edit toolbar. Click "Edit" in the toolbar to begin editing. You can change the navigation links if you want to rename any pages. Leave the navlink text empty if you want to remove access to a page you don't use. To change an image (make sure the toolbar shows "Editing"), click on the image and change the image URL.
+您可以使用 [Mavo](https://mavo.io/) 页面编辑器编辑页面上的内容、标题、图像和链接。 使用链接“https://example.com/index.html?login”打开编辑工具栏。 单击工具栏中的“编辑”开始编辑。 如果要重命名任何页面，可以更改导航链接。 如果您想删除对您不使用的页面的访问权限，请将导航链接文本留空。 要更改图像（确保工具栏显示“正在编辑”），请单击图像并更改图像 URL。
